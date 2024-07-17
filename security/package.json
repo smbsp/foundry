@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "solc": "^0.8.20",
+    "solidity-code-metrics": "^0.0.23"
+  }
+}
